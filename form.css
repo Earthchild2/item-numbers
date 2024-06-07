@@ -1,0 +1,29 @@
+*{
+    font-family : sans-serif
+}
+
+.education {
+   margin: auto;
+    padding: 60px;
+    align-items: center;
+    background-color: linear-gradient(to right),
+    pink,
+    lightblue,
+    peachpuff;
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: dotted;
+    align-items: center;
+    background-color: blueviolet;
+
+}
+
+#myButton {
+    background-color: pink;
+    width: 150px;
+}
+
+
+
+
